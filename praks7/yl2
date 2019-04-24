@@ -1,0 +1,22 @@
+#!/bin/bash
+#
+#Aastaaegade ülesanne
+#
+read -p "Sisesta palun kuu: " kuu
+if test $kuu -ge 1-a $kuu -lt 2
+then
+      echo "On Talv"
+elif test $kuu -ge 3 -a $kuu -lt 5
+then
+      echo "On kevad"
+elif test $kuu -ge 6 -a $kuu -lt 8
+then
+     echo "On suvi"
+elif test $kuu -ge 9 -a $kuu -lt 11
+then
+     echo "On sügis"
+elif test $kuu -ge 12
+then 
+     echo "On talv"
+fi
+#Skript sai läbi
