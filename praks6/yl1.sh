@@ -1,4 +1,4 @@
---#!/bin/bash
+#!/bin/bash
 #
 #see skript tuvastab kas sisestatud arv on paarisarv
 #

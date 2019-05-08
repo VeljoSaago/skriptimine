@@ -7,4 +7,4 @@ echo "ISP118" #väljastab õppegrupi uuele reale
 echo "Antud aine tundub erakordselt huvitav" #väljastab kirjelduse uuele reale
 echo "Praegune mulje on tore, edasijõudmine pole väga raske" #väljastab kirjelduse ja läheb uuele reale 
 #
-#skripti lõpp
+#Skripti lõpp

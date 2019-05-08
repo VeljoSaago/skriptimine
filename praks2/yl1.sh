@@ -6,4 +6,4 @@ echo -n "Tere, " # väljasta ilma reavahetuseta Tere,
 echo -n "User" # väljasta ilma reavahetuseta User
 echo "!" # väljasta ja tee reavahetus
 #
-#skripti lõpp
+#Skripti lõpp
